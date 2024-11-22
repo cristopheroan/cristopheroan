@@ -3,11 +3,15 @@
 </p>
 
 ### Olá! Eu sou Cristopher
-<p>🧑‍💻 Atualmente estou participando do BootCamp Santander 2024 - Backend com Java na [Digital inovetion one - DIO](https://www.dio.me/).
+<p>🧑‍💻  Sempre Buscando conhecimentos para a área da tecnologia, Consegui adiquirir conhecimentos em Back-end Java, AWS, HTML, CSS, como trabalhar com I.A. e um pouco mais. Busco também saber em como os códigos afetam o nosso planeta, com o conhecimento na LFC-131 adiquirido na Linux Fundation, pretendo melhorar os meus códigos e fazer a minha parte para uma tecnologia mais verde.  
+  Atualmente me aprofundando bastante nesse universo incrivel da Tec. junto da [Digital inovetion one - DIO](https://www.dio.me/).
 
-  💻 Estudando sobre IA Generative através do Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 [Digital inovetion one - DIO](https://www.dio.me/).
+  💻 Estudando sobre HTML, CSS e JS na [Digital inovetion one - DIO](https://www.dio.me/).
+     Desenvolvendo também o estudo de T.I. junto da Estácio.
   
-  ✈️ Atualmente trabalhando na Aéronautica como Auxiliar de Mecânico de Aéronaves. Buscando migrar para area da técnologia.</p> 
+  🏃‍♂️ Praticante de esportes no geral, sempre execitando para distrair a mente e manter o corpo e mente saudaveis. Bora lá para uma corridinha.
+  
+  ✈️ Atualmente trabalhando na Aéronautica como Auxiliar de Mecânico de Aéronaves, Patrimônio e umas tarefas a mais. Buscando migrar para area da técnologia o mais breve.</p> 
 
 
 ## Conecte-se comigo 
