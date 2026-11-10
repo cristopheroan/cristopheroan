@@ -3,7 +3,7 @@
 </p>
 
 ### Olá! Eu sou Cristopher
-<p> 🧑‍💻 Entusiasta da tecnologia e desenvolvedor em constante evolução.
+<p> <strong>🧑‍💻 Entusiasta da tecnologia e desenvolvedor em constante evolução.</strong>
 
 Minha jornada na tecnologia é movida pela curiosidade, dedicação e vontade de transformar conhecimento em soluções reais.
 
@@ -11,7 +11,7 @@ Ao longo dos meus estudos, venho adquirindo conhecimentos em Back-end com Java, 
 
 🌱 Também tenho interesse em compreender como os códigos e as aplicações impactam nosso planeta. Por meio da formação LFC-131 da Linux Foundation, comecei a explorar o conceito de Green Software, buscando desenvolver soluções mais eficientes e contribuir para uma tecnologia mais sustentável.
 
-🎓 Atualmente continuo aprofundando meus conhecimentos em Tecnologia da Informação pela Estácio e por meio das formações da Digital Innovation One - DIO.
+🎓 Atualmente continuo aprofundando meus conhecimentos em Tecnologia da Informação pela Estácio e por meio das formações da [Digital Innovation One - DIO.](https://www.dio.me/)
 
 💻 Estou sempre buscando transformar o aprendizado em prática, desenvolvendo projetos e explorando novas ferramentas, linguagens e tecnologias.
 
@@ -34,17 +34,37 @@ Ao longo dos meus estudos, venho adquirindo conhecimentos em Back-end com Java, 
 
 ## Habilidades e Ferramentas
 
+### Linguagens e desenvolvimento
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-AWS" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />     
-  <img align="center" alt="Cris-Jv" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Cris-HTML" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-JS" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Cris-CSS3" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />      
- 
+  <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Node.js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Android" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 </div>
 
+### Cloud, ferramentas e versionamento
+<div style="display: inline_block"><br>
+  <img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img align="center" alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="GitHub" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</div>
 
+### Banco de dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="PostgreSQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+</div>
             
           
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cristopheroan&repo=dio-lab-open-source-cris&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cristopheroan/dio-lab-open-source-cris)
+
+
+## 🌱 Sempre evoluindo
+<p>Acredito que a tecnologia deve evoluir junto com as pessoas e com a responsabilidade de construir um futuro melhor.</p>
+
+### "O conhecimento abre caminhos, mas é a prática que transforma possibilidades em resultados." 🚀
