@@ -61,7 +61,7 @@ Ao longo dos meus estudos, venho adquirindo conhecimentos em Back-end com Java, 
             
           
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cristopheroan&repo=dio-lab-open-source-cris&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cristopheroan/dio-lab-open-source-cris)
+![GitHub Snake](https://raw.githubusercontent.com/cristopheroan/cristopheroan/output/github-snake-dark.svg)
 
 
 ## 🌱 Sempre evoluindo
