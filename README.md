@@ -3,15 +3,23 @@
 </p>
 
 ### Olá! Eu sou Cristopher
-<p>🧑‍💻  Sempre Buscando conhecimentos para a área da tecnologia, Consegui adiquirir conhecimentos em Back-end Java, AWS, HTML, CSS, como trabalhar com I.A. e um pouco mais. Busco também saber em como os códigos afetam o nosso planeta, com o conhecimento na LFC-131 adiquirido na Linux Fundation, pretendo melhorar os meus códigos e fazer a minha parte para uma tecnologia mais verde.  
-  Atualmente me aprofundando bastante nesse universo incrivel da Tec. junto da [Digital inovetion one - DIO](https://www.dio.me/).
+<p> 🧑‍💻 Entusiasta da tecnologia e desenvolvedor em constante evolução.
 
-  💻 Estudando sobre HTML, CSS e JS na [Digital inovetion one - DIO](https://www.dio.me/).
-     Desenvolvendo também o estudo de T.I. junto da Estácio.
-  
-  🏃‍♂️ Praticante de esportes no geral, sempre execitando para distrair a mente e manter o corpo e mente saudaveis. Bora lá para uma corridinha.
-  
-  ✈️ Atualmente trabalhando na Aéronautica como Auxiliar de Mecânico de Aéronaves, Patrimônio e umas tarefas a mais. Buscando migrar para area da técnologia o mais breve.</p> 
+Minha jornada na tecnologia é movida pela curiosidade, dedicação e vontade de transformar conhecimento em soluções reais.
+
+Ao longo dos meus estudos, venho adquirindo conhecimentos em Back-end com Java, JavaScript, Python, Node.js, desenvolvimento Web, AWS, bancos de dados, Inteligência Artificial e automação.
+
+🌱 Também tenho interesse em compreender como os códigos e as aplicações impactam nosso planeta. Por meio da formação LFC-131 da Linux Foundation, comecei a explorar o conceito de Green Software, buscando desenvolver soluções mais eficientes e contribuir para uma tecnologia mais sustentável.
+
+🎓 Atualmente continuo aprofundando meus conhecimentos em Tecnologia da Informação pela Estácio e por meio das formações da Digital Innovation One - DIO.
+
+💻 Estou sempre buscando transformar o aprendizado em prática, desenvolvendo projetos e explorando novas ferramentas, linguagens e tecnologias.
+
+✈️ Atualmente trabalho na Aeronáutica, atuando como auxiliar de mecânico de aeronaves e também em atividades relacionadas ao patrimônio e suporte operacional. Minha experiência profissional fortalece características como disciplina, organização, responsabilidade e resolução de problemas.
+
+🎯 Meu objetivo é migrar profissionalmente para a área de tecnologia, evoluindo como desenvolvedor e participando de projetos que transformem conhecimento em soluções.
+
+🏃‍♂️ Fora da tecnologia, sou praticante de esportes. Acredito que disciplina, constância e equilíbrio são fundamentais para manter o corpo e a mente saudáveis.</p> 
 
 
 ## Conecte-se comigo 
